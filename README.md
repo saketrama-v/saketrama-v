@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=saketrama-v&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Saket%20Rama&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AIML%20Engineer%20%7C%20Fullstack%20Dev%20%7C%20MIT%20Manipal&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
