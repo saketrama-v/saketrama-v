@@ -94,11 +94,20 @@ I'm a 2nd-year CS student who builds things that work in the real world — from
 
 ---
 
-### 🌐 [ScanUp.co](https://github.com/rriddhijain/Scanup.co) *(Collaborator)*
-> QR-based web platform — collaborated on frontend development.
-- `HTML` `CSS` `JavaScript`
-
----
+<div align="center">
+  <a href="https://github.com/saketrama-v/BE_FR">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saketrama-v&repo=BE_FR&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&icon_color=A78BFA" />
+  </a>
+  <a href="https://github.com/saketrama-v/SPLIT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saketrama-v&repo=SPLIT&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&icon_color=A78BFA" />
+  </a>
+  <a href="https://github.com/saketrama-v/AgentHub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saketrama-v&repo=AgentHub&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&icon_color=A78BFA" />
+  </a>
+  <a href="https://github.com/saketrama-v/fixit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saketrama-v&repo=fixit&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&icon_color=A78BFA" />
+  </a>
+</div>
 
 ## `> top --currently-working-on`
 
