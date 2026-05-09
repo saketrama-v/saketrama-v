@@ -124,21 +124,12 @@ I'm a 2nd-year CS student who builds things that work in the real world — from
 
 <div align="center">
 
-<a href="https://github.com/saketrama-v/BE_FR">
-  <img src="https://gh-pinned-repos-tcj2.vercel.app/?username=saketrama-v&repo=BE_FR" />
-</a>
-<a href="https://github.com/saketrama-v/SPLIT">
-  <img src="https://gh-pinned-repos-tcj2.vercel.app/?username=saketrama-v&repo=SPLIT" />
-</a>
-<a href="https://github.com/saketrama-v/AgentHub">
-  <img src="https://gh-pinned-repos-tcj2.vercel.app/?username=saketrama-v&repo=AgentHub" />
-</a>
-<a href="https://github.com/saketrama-v/FixIt">
-  <img src="https://gh-pinned-repos-tcj2.vercel.app/?username=saketrama-v&repo=FixIt" />
-</a>
+[![BE_FR](https://github-readme-stats-salesp07.vercel.app/api/pin/?username=saketrama-v&repo=BE_FR&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&icon_color=A78BFA)](https://github.com/saketrama-v/BE_FR)
+[![SPLIT](https://github-readme-stats-salesp07.vercel.app/api/pin/?username=saketrama-v&repo=SPLIT&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&icon_color=A78BFA)](https://github.com/saketrama-v/SPLIT)
+[![AgentHub](https://github-readme-stats-salesp07.vercel.app/api/pin/?username=saketrama-v&repo=AgentHub&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&icon_color=A78BFA)](https://github.com/saketrama-v/AgentHub)
+[![FixIt](https://github-readme-stats-salesp07.vercel.app/api/pin/?username=saketrama-v&repo=FixIt&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&icon_color=A78BFA)](https://github.com/saketrama-v/FixIt)
 
 </div>
-
 ---
 
 ## `> top --currently-working-on`
@@ -155,9 +146,9 @@ I'm a 2nd-year CS student who builds things that work in the real world — from
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats-git-master-grubersjoe.vercel.app/api?username=saketrama-v&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&count_private=true)](https://github.com/saketrama-v)
+[[![GitHub stats](https://github-readme-stats-git-master-grubersjoe.vercel.app/api?username=saketrama-v&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&count_private=true)](https://github.com/saketrama-v)](https://github-readme-stats-salesp07.vercel.app/api?username=saketrama-v&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&count_private=true)
 
-[![Top Languages](https://github-readme-stats-git-master-grubersjoe.vercel.app/api/top-langs/?username=saketrama-v&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&langs_count=8)](https://github.com/saketrama-v)
+[[![Top Languages](https://github-readme-stats-git-master-grubersjoe.vercel.app/api/top-langs/?username=saketrama-v&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&langs_count=8)](https://github.com/saketrama-v)](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=saketrama-v&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&langs_count=8)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=saketrama-v&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)](https://github.com/saketrama-v)
 
