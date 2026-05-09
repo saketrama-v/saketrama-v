@@ -1,4 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=saketrama-v&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Saket%20Rama&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AIML%20Engineer%20%7C%20Fullstack%20Dev%20%7C%20MIT%20Manipal&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
@@ -31,7 +32,13 @@ I'm a 2nd-year CS student who builds things that work in the real world — from
 
 ---
 
+<div align="center">
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=saketrama-v&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
 
 ## `> ls ./skills`
 
@@ -51,6 +58,7 @@ I'm a 2nd-year CS student who builds things that work in the real world — from
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=crewai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
 **Frontend / Backend**
@@ -115,19 +123,23 @@ I'm a 2nd-year CS student who builds things that work in the real world — from
 ---
 
 <div align="center">
-  <a href="https://github.com/saketrama-v/BE_FR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saketrama-v&repo=BE_FR&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&icon_color=A78BFA" />
-  </a>
-  <a href="https://github.com/saketrama-v/SPLIT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saketrama-v&repo=SPLIT&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&icon_color=A78BFA" />
-  </a>
-  <a href="https://github.com/saketrama-v/AgentHub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saketrama-v&repo=AgentHub&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&icon_color=A78BFA" />
-  </a>
-  <a href="https://github.com/saketrama-v/FixIt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saketrama-v&repo=FixIt&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&icon_color=A78BFA" />
-  </a>
+
+<a href="https://github.com/saketrama-v/BE_FR">
+  <img src="https://gh-pinned-repos-tcj2.vercel.app/?username=saketrama-v&repo=BE_FR" />
+</a>
+<a href="https://github.com/saketrama-v/SPLIT">
+  <img src="https://gh-pinned-repos-tcj2.vercel.app/?username=saketrama-v&repo=SPLIT" />
+</a>
+<a href="https://github.com/saketrama-v/AgentHub">
+  <img src="https://gh-pinned-repos-tcj2.vercel.app/?username=saketrama-v&repo=AgentHub" />
+</a>
+<a href="https://github.com/saketrama-v/FixIt">
+  <img src="https://gh-pinned-repos-tcj2.vercel.app/?username=saketrama-v&repo=FixIt" />
+</a>
+
 </div>
+
+---
 
 ## `> top --currently-working-on`
 
@@ -143,9 +155,9 @@ I'm a 2nd-year CS student who builds things that work in the real world — from
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=saketrama-v&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&count_private=true)](https://github.com/saketrama-v)
+[![GitHub stats](https://github-readme-stats-git-master-grubersjoe.vercel.app/api?username=saketrama-v&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&count_private=true)](https://github.com/saketrama-v)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saketrama-v&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&langs_count=8)](https://github.com/saketrama-v)
+[![Top Languages](https://github-readme-stats-git-master-grubersjoe.vercel.app/api/top-langs/?username=saketrama-v&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&langs_count=8)](https://github.com/saketrama-v)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=saketrama-v&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)](https://github.com/saketrama-v)
 
