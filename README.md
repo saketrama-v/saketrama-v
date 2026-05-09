@@ -74,7 +74,7 @@ I'm a 2nd-year CS student who builds things that work in the real world — from
 
 ## `> cat ./projects`
 
-### 🧠 [Deepfake Detection System (BE_FR)](https://github.com/saketrama-v/BE_FR)
+### 🧠 [Deepfake Detection System](https://github.com/saketrama-v/BE_FR)
 > **Twin-Stream Vision Transformer** that separately analyzes facial and background inconsistencies to detect AI-generated media.
 
 - Built with **ViT-B/16 + MobileNetV3**, **Flask** API, **Next.js** frontend
@@ -94,6 +94,26 @@ I'm a 2nd-year CS student who builds things that work in the real world — from
 
 ---
 
+### 🤖 [AgentHub — Cloud IDE with Multi-Agent AI](https://github.com/saketrama-v/AgentHub)
+> A fully capable **Human-in-the-Loop Cloud IDE** powered by a hierarchical multi-agent framework to automate complex software engineering tasks end-to-end.
+
+- Built on **CrewAI** — agents plan, write, review, and debug code autonomously
+- Human-in-the-loop control lets you supervise, intervene, or redirect at any step
+- Designed to handle real engineering workflows, not toy problems
+- `Python` `CrewAI` `LLM` `AI Agents` `Cloud IDE`
+
+---
+
+### 🔧 [FixIt — AI Industrial Maintenance Assistant](https://github.com/saketrama-v/FixIt)
+> Point your camera at any machine. AI diagnoses the fault, identifies the root cause, and walks you through the fix — step by step.
+
+- Computer vision pipeline identifies machine components and failure modes from live camera
+- Root cause analysis + guided repair instructions generated on the fly
+- Built for real industrial environments, not lab demos
+- `Python` `Computer Vision` `React` `Flask` `Gemini API`
+
+---
+
 <div align="center">
   <a href="https://github.com/saketrama-v/BE_FR">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=saketrama-v&repo=BE_FR&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&icon_color=A78BFA" />
@@ -104,8 +124,8 @@ I'm a 2nd-year CS student who builds things that work in the real world — from
   <a href="https://github.com/saketrama-v/AgentHub">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=saketrama-v&repo=AgentHub&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&icon_color=A78BFA" />
   </a>
-  <a href="https://github.com/saketrama-v/fixit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saketrama-v&repo=fixit&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&icon_color=A78BFA" />
+  <a href="https://github.com/saketrama-v/FixIt">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saketrama-v&repo=FixIt&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&icon_color=A78BFA" />
   </a>
 </div>
 
