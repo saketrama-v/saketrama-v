@@ -31,6 +31,8 @@ I'm a 2nd-year CS student who builds things that work in the real world — from
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=saketrama-v&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## `> ls ./skills`
 
 <div align="center">
