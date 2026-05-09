@@ -130,6 +130,7 @@ I'm a 2nd-year CS student who builds things that work in the real world — from
 [![FixIt](https://github-readme-stats-salesp07.vercel.app/api/pin/?username=saketrama-v&repo=FixIt&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&icon_color=A78BFA)](https://github.com/saketrama-v/FixIt)
 
 </div>
+
 ---
 
 ## `> top --currently-working-on`
@@ -146,9 +147,9 @@ I'm a 2nd-year CS student who builds things that work in the real world — from
 
 <div align="center">
 
-[[![GitHub stats](https://github-readme-stats-git-master-grubersjoe.vercel.app/api?username=saketrama-v&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&count_private=true)](https://github.com/saketrama-v)](https://github-readme-stats-salesp07.vercel.app/api?username=saketrama-v&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&count_private=true)
+[![GitHub stats](https://github-readme-stats-salesp07.vercel.app/api?username=saketrama-v&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&count_private=true)](https://github.com/saketrama-v)
 
-[[![Top Languages](https://github-readme-stats-git-master-grubersjoe.vercel.app/api/top-langs/?username=saketrama-v&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&langs_count=8)](https://github.com/saketrama-v)](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=saketrama-v&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&langs_count=8)
+[![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=saketrama-v&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&langs_count=8)](https://github.com/saketrama-v)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=saketrama-v&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)](https://github.com/saketrama-v)
 
