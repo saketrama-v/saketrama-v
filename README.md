@@ -21,7 +21,7 @@ saket = {
     "name"       : "Saket Rama",
     "college"    : "Manipal Institute of Technology",
     "degree"     : "B.Tech CSE — 2nd Year",
-    "focus"      : ["AI/ML Engineering", "Full-Stack Development", "DevOps (learning)"],
+    "focus"      : ["AI/ML Engineering", "Full-Stack Development", "DevOps"],
     "currently"  : "Building real projects, not just tutorials",
     "open_to"    : "Internships, hackathons, collab",
     "contact"    : "saketramavedula@gmail.com"
