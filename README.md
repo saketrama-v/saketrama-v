@@ -28,7 +28,7 @@ saket = {
 }
 ```
 
-I'm a 2nd-year CS student who builds things that work in the real world - from deepfake detectors using Vision Transformers to AI agent escalation protocols. I care about shipping, not just learning.
+I'm a 3rd-year CS student who builds things that work in the real world - from deepfake detectors using Vision Transformers to AI agent escalation protocols. I care about shipping, not just learning.
 
 ---
 
