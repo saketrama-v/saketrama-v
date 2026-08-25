@@ -20,7 +20,7 @@
 saket = {
     "name"       : "Saket Rama",
     "college"    : "Manipal Institute of Technology",
-    "degree"     : "B.Tech CSE - 2nd Year",
+    "degree"     : "B.Tech CSE - 3rd Year",
     "focus"      : ["AI/ML Engineering", "Backend Architecture", "DevOps"],
     "currently"  : "Building real projects, not just tutorials",
     "open_to"    : "Internships, hackathons, collab",
